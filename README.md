@@ -83,6 +83,7 @@ The dataset comprises the following 11 attributes:
 [Dataset](https://drive.google.com/file/d/1NBk1TFkK4NeKdodR2DxIdBp2Mk1mh4AS/view)
 [Streamlit](https://insurancecostprediction-ngxbmy2r4tnzuamby4vz8x.streamlit.app/)
 [GitHub repo](https://github.com/bantee-sharma/InsuranceCostPrediction.git)
+[Technical Blog](https://medium.com/@banteesharma9/insurance-cost-prediction-using-machine-learning-a975d50c3298)
 
 
 
