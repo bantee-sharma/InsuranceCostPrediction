@@ -75,7 +75,6 @@ The dataset comprises the following 11 attributes:
 ● Accessibility, real-time estimations, user-friendly interface
 
 ### Process
-● Flask API: Backend handling requests and predictions
 ● Streamlit Application: User input forms and real-time predictions
 
 ## Links
